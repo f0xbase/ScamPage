@@ -11,7 +11,7 @@
                                       F0xBase
                              [Kumpulan Script Scampage]
 ```
-Kumpulan Scampage Dari Berbagai Website-Website Terkenal . Cocok Buat yg Suka Phising. Saya Tidak bertanggung jawab bila anda Terkena masalah gara" Script ini . Saya Cuman Share saja :)
+Kumpulan Scampage Dari Berbagai Website-Website Terkenal . Cocok Buat yg Suka Phising. Tanggung jawab pengguna akhir untuk mematuhi semua hukum setempat, negara bagian, dan federal. Pengembang tidak bertanggung jawab dan tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh :)
 
 # [ Installation ]
 ```
